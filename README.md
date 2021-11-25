@@ -24,7 +24,7 @@ A graphical interface, inspired by streaming platform Netflix, was created from 
 
 ## About my thesis
 
-If you want to read through the whole process and learn about the different methods and technologies used in this and other prototypes, you can find my Master's Thesis on [University of Madeira's online repo](https://digituma.uma.pt/ "DigitUma"). Alternatively, you can get it off this GitHub repo ([here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/exhilaratedguy/masters-thesis/cdddd6fb2f6930879254a94abb372a46ffe53f10/Interacoes_Gestuais_para_Plataformas_de_Streaming_de_Video.pdf "Interações Gestuais para Plataformas de Streaming de Vídeo")) as well.
+If you want to read through the whole process and learn about the different methods and technologies used in this and other prototypes, you can find my Master's Thesis on [University of Madeira's online repo](https://digituma.uma.pt/handle/10400.13/3845 "DigitUma"). Alternatively, you can get it off this GitHub repo ([here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/exhilaratedguy/masters-thesis/cdddd6fb2f6930879254a94abb372a46ffe53f10/Interacoes_Gestuais_para_Plataformas_de_Streaming_de_Video.pdf "Interações Gestuais para Plataformas de Streaming de Vídeo")) as well.
 
 <br>
 
